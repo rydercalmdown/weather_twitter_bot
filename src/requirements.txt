@@ -1,0 +1,4 @@
+requests==2.26.0
+python-twitter==3.5
+rtsparty==0.0.1
+pillow==8.4.0
